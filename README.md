@@ -43,7 +43,7 @@ with socket.create_connection((HOST, PORT)) as s:
 
 ## OUTPUT:
 Server Side:
-![Screenshot 2025-03-03 135458](https://github.com/user-attachments/assets/bc0e885f-3183-41f2-838d-0441a0717df8)
+![Screenshot 2025-03-03 140756](https://github.com/user-attachments/assets/4a536543-710d-4147-b6c7-8a3814163274)
 
 Client Side:
 ![Screenshot 2025-03-03 135754](https://github.com/user-attachments/assets/38bcfc20-4dc4-44f0-8b66-c60dbe1e72b0)
